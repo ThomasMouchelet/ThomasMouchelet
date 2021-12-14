@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome ⚡
+
+[https://www.youtube.com/channel/UCN2PHVKqrXDLAYqbG8yKmdQ]: Youtube channel
+[https://www.linkedin.com/in/thomasmouchelet/]: Linkedin
+
+
 
 <!--
 **ThomasMouchelet/ThomasMouchelet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
