@@ -1,7 +1,7 @@
 ### Welcome ⚡
 
 [Youtube channel] (https://www.youtube.com/channel/UCN2PHVKqrXDLAYqbG8yKmdQ)
-[Linkedin]: (https://www.linkedin.com/in/thomasmouchelet/)
+[Linkedin] (https://www.linkedin.com/in/thomasmouchelet/)
 
 
 
