@@ -1,9 +1,7 @@
 ### Welcome ⚡
 
-[website]: [https://tmouchelet.fr ](https://tmouchelet.com/)
-<br>
+[https://tmouchelet.fr ](https://tmouchelet.com/)\
 [Youtube channel](https://www.youtube.com/channel/UCN2PHVKqrXDLAYqbG8yKmdQ)\
-<br>
 [Linkedin](https://www.linkedin.com/in/thomasmouchelet/)
 
 <br>
