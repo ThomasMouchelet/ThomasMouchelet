@@ -49,12 +49,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasMouchelet&show_icons=true&theme=tokyonight&hide_border=true" alt="Thomas's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomasMouchelet&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="Thomas's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasMouchelet&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThomasMouchelet&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
