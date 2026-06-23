@@ -25,7 +25,37 @@
 
 ---
 
-### 🛠️ Tech Stack
+### ⭐ Featured Project — [Silia](https://www.silia.co)
+
+> **The all-in-one platform for non-profits &amp; community organizations.**
+> One place to handle **communication** (branded website, mobile space, multi-channel broadcasting, push notifications), **payments** (ticketing, online payments, donations, memberships), **management** (accounting, members, roles &amp; permissions) and **engagement** (events, registrations, polls).
+
+**Architecture** — a TypeScript monorepo I designed &amp; lead end-to-end:
+
+| Layer | Stack |
+|-------|-------|
+| 📱 **Mobile** (iOS / Android) | Expo · React Native · Expo Router |
+| 🌐 **Web + Back-office** | Next.js · React · Tailwind CSS |
+| 🔌 **API** | GraphQL (Apollo Server · Nexus) · Prisma |
+| 🗄️ **Data** | PostgreSQL |
+| 💳 **Payments** | Stripe |
+| ☁️ **Infra & Cloud** | DigitalOcean · AWS (S3 · SES · SNS) · Docker |
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Tech Stack &amp; Skills
+
+> An overview of the technologies I work with across projects.
 
 **Languages**
 
